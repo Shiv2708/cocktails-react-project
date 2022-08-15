@@ -11,5 +11,5 @@
 ```
 
 ```
-"uses 3rd party api for data"
+"uses cocktaildb api"
 ```

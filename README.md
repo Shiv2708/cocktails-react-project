@@ -2,14 +2,14 @@
 
 (Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
 
-#### CRA Fix
+#### About
 
 ```
 
-"build": "CI= react-scripts build",
+"build": "Simple react app to search for drinks",
 
 ```
 
-```sh
-npm install react-router-dom@6
+```
+"uses 3rd party api for data"
 ```

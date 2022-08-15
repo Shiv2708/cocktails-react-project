@@ -6,7 +6,7 @@
 
 ```
 
-"build": "Simple react app to search for drinks",
+"Simple react app to search for drinks",
 
 ```
 

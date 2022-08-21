@@ -5,11 +5,9 @@
 #### About
 
 ```
-
-"Simple react app to search for drinks",
-
+Simple react app to search for drinks
 ```
 
 ```
-"uses cocktaildb api"
+uses cocktaildb api
 ```
